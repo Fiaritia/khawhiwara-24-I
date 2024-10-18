@@ -18,4 +18,17 @@ const Enina = Object.freeze({
     VATOLALAKA: 'VATOLALAKA'
 });
 
+const Mpikambana = Object.freeze({
+    FOTOTRA: 'FOTOTRA',
+    MPIANDRAIKITRA: 'MPIANDRAIKITRA',
+    TONIA: 'TONIA',
+    FILOHA: 'FILOHA'
+});
+
+const AndraikitraMP = Object.freeze({
+    TOMPONTOERANA: 'TOMPONTOERANA',
+    MPANAMPY: 'MPANAMPY',
+    MPAMPILALAO: 'MPAMPILALAO'
+});
+
 module.exports = { Sampana, Enina };
